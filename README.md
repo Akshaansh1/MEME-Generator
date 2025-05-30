@@ -3,6 +3,6 @@ MEME ROULETTE
 You even don't know what is coming next..
 
 do:-
-npm install
-cd meme-generator
-npm run dev
+npm install \n
+cd meme-generator \n
+npm run dev \n
