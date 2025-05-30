@@ -1,0 +1,33 @@
+export const templates = [
+  { name: "Drake", url: "https://i.imgflip.com/30b1gx.jpg" },
+  { name: "Distracted BF", url: "https://i.imgflip.com/1ur9b0.jpg" },
+  { name: "Change My Mind", url: "https://i.imgflip.com/24y43o.jpg" },
+  { name: "Two Buttons", url: "https://i.imgflip.com/1g8my4.jpg" },
+  { name: "UNO Draw 25", url: "https://i.imgflip.com/3lmzyx.jpg" },
+  { name: "Left Exit 12 Off Ramp", url: "https://i.imgflip.com/22bdq6.jpg" },
+  { name: "Waiting Skeleton", url: "https://i.imgflip.com/2fm6x.jpg" },
+  { name: "Surprised Pikachu", url: "https://i.imgflip.com/2kbn1e.jpg" },
+  { name: "Mocking Spongebob", url: "https://i.imgflip.com/1otk96.jpg" },
+  { name: "Always Has Been", url: "https://i.imgflip.com/46e43q.png" },
+  { name: "Is This a Pigeon?", url: "https://i.imgflip.com/1o00in.jpg" },
+  { name: "Batman Slapping Robin", url: "https://i.imgflip.com/9ehk.jpg" },
+  { name: "Gru's Plan", url: "https://i.imgflip.com/26jxvz.jpg" },
+];
+
+export const captions = [
+  "When you fix one bug and five more appear 🐞💥",
+  "Stack Overflow is down... now what? 😰",
+  "When you write code that works on the first try 🧠🔥",
+  "POV: You forgot to save the file before running it 😬",
+  "When you say 'just one more feature' at 3AM 🌙💻",
+  "When ChatGPT gives you a perfect code snippet 🙏🤖",
+  "Running `npm install` for the 47th time today 🔁",
+  "Why test it locally when prod exists? 🚨",
+  "When your PR gets merged without comments 🙌",
+  "That feeling when the code compiles but doesn't run 😵",
+  "Using AI to write memes instead of code 😎",
+  "Explaining your code to future you 🧓🧠",
+  "Me: I’ll sleep early tonight | Also me: refactoring at 2AM 🌌",
+  "When the intern pushes to `main` 😭",
+  "Commit message: 'final-final-v2-FIXED-really-final.js' 🤡",
+];
